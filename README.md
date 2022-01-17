@@ -1,5 +1,5 @@
 # password-generator
-Live URl:
+Live URl: https://simmy21.github.io/password-generator/
 
 This page creates a random password through numbers, special characters, capital and lowercase letters. It will create passwords in the size between 8 - 128 consiting of all or only one of these items as instructed through the popup selection.
 
